@@ -1,4 +1,4 @@
-# Hi there, I'm F G Firasath! 👋
+# SkyGrid
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SonuFirasath)
 
@@ -9,11 +9,13 @@ I'm a passionate software developer with a keen interest in web development, mac
 - 🌱 I’m currently learning advanced algorithms and machine learning techniques.
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 💬 Ask me about web development, Python, and JavaScript.
-- 📫 How to reach me: sonufirasath201@gmail.com | [LinkedIn](https://www.linkedin.com/in/f-g-firasath-580568234/?trk=public-profile-join-page
-)
+- 📫 How to reach me: sonufirasath201@gmail.com | [LinkedIn](https://www.linkedin.com/in/f-g-firasath-580568234/?trk=public-profile-join-page)
 
 ## 🛠️ Technologies & Tools
 
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
@@ -31,3 +33,24 @@ I'm a passionate software developer with a keen interest in web development, mac
 
 - Email: sonufirasath201@gmail.com
 - LinkedIn: https://www.linkedin.com/in/f-g-firasath-580568234/?trk=public-profile-join-page
+
+## Project Title
+
+SkyGrid
+
+## Project Description
+
+SkyGrid is a project that aims to provide ...
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/SonuFirasath/SkyGrid.git
